@@ -3,6 +3,7 @@ public class Tagesabschnitt {
 
         int uhrzeit = 6;
 
+
         if (uhrzeit >5 && uhrzeit <= 9) {
             System.out.println("Früh");
         } else if (uhrzeit > 9 && uhrzeit <= 12) {
